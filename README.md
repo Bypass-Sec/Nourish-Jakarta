@@ -24,6 +24,10 @@ AI-powered food distribution platform combating hunger in Jakarta's underserved 
 - Route optimization for distributions
 - Dynamic resource allocation
 
+|  Landing Page 🌐                       |
+| --------------------------  | 
+| <img width="2820" height="1332" alt="image" src="https://github.com/user-attachments/assets/9dca1cb2-7e64-4a63-9e33-c85fcec22731" />| 
+
 ## 🛠️ Tech Stack
 
 | Component | Technology |
@@ -64,13 +68,13 @@ npm run dev
 ₹25 cost per nutritious meal
 ```
 ## 🌱 How It Works
-AI predicts areas of highest need
+- AI predicts areas of highest need
 
-Partners prepare meals at community kitchens
+- Partners prepare meals at community kitchens
 
-Volunteers distribute to mapped locations
+- Volunteers distribute to mapped locations
 
-Donors fund ongoing operations
+- Donors fund ongoing operations
 
 ## 🏗️ Project Structure
 ```text
